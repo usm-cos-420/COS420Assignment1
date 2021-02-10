@@ -27,16 +27,16 @@ Table of Contents
 . Stock
 
 Service:
-CustomerService
-InventorySefvice
-OrderPlacedService
-StockService
+.CustomerService
+.InventorySefvice
+.OrderPlacedService
+.StockService
 
 View:
-CItemView
-CustomerView
-InventoryView
-StockView
+.CItemView
+.CustomerView
+.InventoryView
+.StockView
 
 
 
@@ -93,10 +93,13 @@ CustomerDao
 This class helps to store all the information of customer in a jason file (permanent storage).
 
 methods:
+
 add(Customer)
 Add a customer to the DAO repository
+
 update(Customer)
 Update a customer in a DAO repository
+
 remove(Long)
 Remove a Customer based on a id.
 
@@ -111,52 +114,72 @@ This class helps to store all the information of Stock.
 
 CustomerService
 methods:
+
 addACustomer(id,name,address,town ,state,zip)
 This methods add a customer with a id , name , address ,town ,state and zip
+
 getAll()
 Returns all the customer from a repo.
 
 InventorySefvice
 methods:
+
 totalItems()
 Return a toal item in a inventory
+
 checkId(Long)
 When the user enter a id and if id id is matched with other inventory this will check the id, it will make sure that 
 the id is unique ,if not it will increase the id number by 1.
+
+
 OrderPlacedService
 This class will help to add and list a order for a particular customer.
+
 StockService
 This class will help to add a stock for a particular inventory
 
 CItemView
 This is the main view for a software:
+
 method:
+
 readIntWithPrompt (String prompt)
 This method will read the user input and returns a user input to a main controller.
+
+
 CustomerView
 View for a customer.
+
 methods:
 enterTheId(String)
 takes the user input id and returns the id \
+
 enterThename(String)
 takes the name from user and returns the name
+
 enterTheAddress(String)
 returns a address name
+
 enterTheTown(String)
 returns a town name
+
 enterTheState(String)
 returns a state
+
 enterTheZipCode()
 returns a xipcode
 
 NewOrExistingCustomer(String)
 When placing order this method will provide a option to place a order for a new customer or existing customer
- enterADate(String)
+
+enterADate(String)
 This method will provide a option to enter a date when a user wants to display the order for a customer
 
 
 InventoryView
+
 This class has a methods for entering a id , brand name , model name and a description for a inventory
+
 StockView
 This class has a methods for entering a id , brand name , model name , and a quantity that needs to be added.
 
