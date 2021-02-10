@@ -1,0 +1,217 @@
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 2
+
+
+Enter the information for new customer
+Enter the 6 digit id   
+123456
+Enter the name of customer  
+gaurav aryal
+Enter the Street Address  
+78 forest ave
+Enter the Town name  
+Portland
+Enter the state : Example = NY  
+ME
+Enter the zip code  
+45687
+one customer added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+654321
+Enter the brand 
+Nike
+Enter the model 
+xl10
+Enter the description 
+Good for mountains
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+123456
+Enter the brand 
+addidas
+Enter the model 
+ml10
+Enter the description 
+good for hills
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 2
+[Inventory [id=654321,Brand=Nike,Model=xl10,Description=Good for mountains], Inventory [id=123456,Brand=addidas,Model=ml10,Description=good for hills]]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 0
+Enter the id number of an item you want to remove654321
+Item is removed
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 2
+[Inventory [id=123456,Brand=addidas,Model=ml10,Description=good for hills]]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+123456
+Stocks [id=123456,Brand=addidas,Model=ml10,quantity= 0]
+Enter the number of quantity that you want to add 
+100
+Stocks [id=123456,Brand=addidas,Model=ml10,quantity= 0]
+100 Quantities of addidas : ml10 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 5
+
+
+Enter the 0 for a new customer or 1 for a existing customer 
+1
+Enter the id number 
+123456
+The information about the customer having 123456 is
+Customers [id=123456,Name=gaurav aryal,Street_Address=78 forest ave,Town=Portland,State=ME,Zip_Code=45687]
+
+Place the order:
+Enter the brand Name 
+addidas
+Enter the model Name 
+ml10
+Enter the number of quantity that customer wanted:  
+1
+Order is placed
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 6
+
+Enter the customer id 
+123456
+Enter a begain date in "MM/DD/YYYY"  format01/29/2020
+Enter a end date in "MM/DD/YYYY"  format01/29/2022
+OrderPlaced [id=123456,Brand=addidas,Model=ml10,quantity= 1]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 7
+
+[Inventory [id=123456,Brand=addidas,Model=ml10,Description=good for hills]]
+There are total of : 1items in our inventory
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 8
+
+[Customers [id=123456,Name=gaurav aryal,Street_Address=78 forest ave,Town=Portland,State=ME,Zip_Code=45687]]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 9
+
+Goodbye.

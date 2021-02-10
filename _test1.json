@@ -1,0 +1,47 @@
+{
+  "126": {
+    "id": 126,
+    "myInteger": 1,
+    "myString": "a string"
+  },
+  "127": {
+    "id": 127,
+    "myInteger": 2,
+    "myString": "a string"
+  },
+  "128": {
+    "id": 128,
+    "myInteger": 3,
+    "myString": "a string"
+  },
+  "138": {
+    "id": 138,
+    "myInteger": 2,
+    "myString": "a string"
+  },
+  "92773": {
+    "id": 92773,
+    "myInteger": 1,
+    "myString": "a string"
+  },
+  "73223": {
+    "id": 73223,
+    "myInteger": 3,
+    "myString": "a string"
+  },
+  "8155": {
+    "id": 8155,
+    "myInteger": 1,
+    "myString": "a string"
+  },
+  "2193": {
+    "id": 2193,
+    "myInteger": 55,
+    "myString": "A New String"
+  },
+  "29170": {
+    "id": 29170,
+    "myInteger": 3,
+    "myString": "a string"
+  }
+}

@@ -1,0 +1,170 @@
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+p
+That's not a number!
+l
+That's not a number!
+'
+That's not a number!
+89
+Enter choice:  
+56
+Enter choice:  
+2
+
+
+Enter the information for new customer
+Enter the 6 digit id   
+l
+That's not a number!
+568
+Number is not 6 digit
+Enter the 6 digit id   
+412356
+Enter the name of customer  
+1
+Enter the name of customer  
+12
+Enter the name of customer  
+gaurav
+Enter the Street Address  
+45
+Enter the Town name  
+portland
+Enter the state : Example = NY  
+1
+Enter the state : Example = NY  
+5
+Enter the state : Example = NY  
+maine
+Enter the state : Example = NY  
+me
+Enter the zip code  
+04103
+one customer added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 2
+[Inventory [id=123456,Brand=addidas,Model=ml10,Description=good for hills], Inventory [id=123457,Brand=Nokia ,Model=m15,Description=This is first item.], Inventory [id=321654,Brand=Addidas,Model=ml20,Description=This is second item], Inventory [id=789456,Brand=Puma,Model=09we,Description=This is third item.], Inventory [id=456987,Brand=GoldStar,Model=klp70,Description=This is fourth item], Inventory [id=562398,Brand=Sony,Model=kl90,Description=This is fifth item]]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 0
+Enter the id number of an item you want to remove567845
+Cannot find the item
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+6
+
+Enter the customer id 
+123658
+Enter a begain date in "MM/DD/YYYY"  format01/21/1999
+Enter a end date in "MM/DD/YYYY"  format01/28/2023
+Customer with id 123658is not found
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+5
+
+
+Enter the 0 for a new customer or 1 for a existing customer 
+1
+Enter the id number 
+321654
+The information about the customer having 321654 is
+Customers [id=321654,Name=Samantha Watson,Street_Address=86 Park Ave,Town=Portland,State=ME,Zip_Code=4101]
+
+Place the order:
+Enter the brand Name 
+Puma
+Enter the model Name 
+0987
+Enter the number of quantity that customer wanted:  
+23
+Items not found in stock/Not enough item in our stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  
+5
+
+
+Enter the 0 for a new customer or 1 for a existing customer 
+1
+Enter the id number 
+456123
+The information about the customer having 456123 is
+Customers [id=456123,Name=Steve Harington,Street_Address=56 Brighton Ave,Town=Portland,State=Me,Zip_Code=41235]
+
+Place the order:
+Enter the brand Name 
+GoldStar
+Enter the model Name 
+klp70
+Enter the number of quantity that customer wanted:  
+20000
+Items not found in stock/Not enough item in our stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice:  

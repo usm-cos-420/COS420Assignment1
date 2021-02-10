@@ -1,0 +1,38 @@
+{
+  "123456": {
+    "id": 123456,
+    "brand": "addidas",
+    "model": "ml10",
+    "quantity": 188
+  },
+  "123457": {
+    "id": 123457,
+    "brand": "Nokia ",
+    "model": "m15",
+    "quantity": 100
+  },
+  "321654": {
+    "id": 321654,
+    "brand": "Addidas",
+    "model": "ml20",
+    "quantity": 500
+  },
+  "789456": {
+    "id": 789456,
+    "brand": "Puma",
+    "model": "09we",
+    "quantity": 800
+  },
+  "456987": {
+    "id": 456987,
+    "brand": "GoldStar",
+    "model": "klp70",
+    "quantity": 10000
+  },
+  "562398": {
+    "id": 562398,
+    "brand": "Sony",
+    "model": "kl90",
+    "quantity": 5980
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "97601": {
+    "id": 97601,
+    "myInteger": 1,
+    "myString": "a string"
+  },
+  "50799": {
+    "id": 50799,
+    "myInteger": 2,
+    "myString": "a string"
+  },
+  "30362": {
+    "id": 30362,
+    "myInteger": 3,
+    "myString": "a string"
+  }
+}

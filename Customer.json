@@ -1,0 +1,74 @@
+{
+  "123456": {
+    "id": 123456,
+    "name": "Gaurav",
+    "streetAddress": "45 forest ave",
+    "Town": "portland",
+    "State": "me",
+    "zipCode": 4103,
+    "inventory_Added": {
+      "id": 6,
+      "brand": "",
+      "model": "",
+      "quantity": 0,
+      "date": "Feb 9, 2021, 11:14:07 PM"
+    },
+    "Order_list": []
+  },
+  "321654": {
+    "id": 321654,
+    "name": "Samantha Watson",
+    "streetAddress": "86 Park Ave",
+    "Town": "Portland",
+    "State": "ME",
+    "zipCode": 4101,
+    "inventory_Added": {
+      "id": 562398,
+      "brand": "Sony",
+      "model": "kl90",
+      "quantity": 20,
+      "date": "Feb 9, 2021, 11:14:57 PM"
+    },
+    "Order_list": [
+      {
+        "id": 562398,
+        "brand": "Sony",
+        "model": "kl90",
+        "quantity": 20,
+        "date": "Feb 9, 2021, 11:14:57 PM"
+      }
+    ]
+  },
+  "456123": {
+    "id": 456123,
+    "name": "Steve Harington",
+    "streetAddress": "56 Brighton Ave",
+    "Town": "Portland",
+    "State": "Me",
+    "zipCode": 41235,
+    "inventory_Added": {
+      "id": 25,
+      "brand": "",
+      "model": "",
+      "quantity": 0,
+      "date": "Feb 9, 2021, 11:15:32 PM"
+    },
+    "Order_list": []
+  },
+  "412356": {
+    "id": 412356,
+    "name": "gaurav",
+    "streetAddress": "45",
+    "Town": "portland",
+    "State": "me",
+    "zipCode": 4103,
+    "inventory_Added": {
+      "id": 14,
+      "brand": "",
+      "model": "",
+      "quantity": 0,
+      "date": "Feb 9, 2021, 11:53:23 PM"
+    },
+    "Order_list": []
+  }
+}

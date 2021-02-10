@@ -1,0 +1,97 @@
+{
+  "1": {
+    "id": 1,
+    "myInteger": 11768,
+    "myString": "String with random number 11768"
+  },
+  "2": {
+    "id": 2,
+    "myInteger": 43098,
+    "myString": "String with random number 43098"
+  },
+  "3": {
+    "id": 3,
+    "myInteger": 97287,
+    "myString": "String with random number 97287"
+  },
+  "4": {
+    "id": 4,
+    "myInteger": 92757,
+    "myString": "String with random number 92757"
+  },
+  "5": {
+    "id": 5,
+    "myInteger": 1624,
+    "myString": "String with random number 1624"
+  },
+  "6": {
+    "id": 6,
+    "myInteger": 2064,
+    "myString": "String with random number 2064"
+  },
+  "7": {
+    "id": 7,
+    "myInteger": 84610,
+    "myString": "String with random number 84610"
+  },
+  "8": {
+    "id": 8,
+    "myInteger": 896,
+    "myString": "String with random number 896"
+  },
+  "9": {
+    "id": 9,
+    "myInteger": 24281,
+    "myString": "String with random number 24281"
+  },
+  "10": {
+    "id": 10,
+    "myInteger": 98117,
+    "myString": "String with random number 98117"
+  },
+  "11": {
+    "id": 11,
+    "myInteger": 55164,
+    "myString": "String with random number 55164"
+  },
+  "12": {
+    "id": 12,
+    "myInteger": 51249,
+    "myString": "String with random number 51249"
+  },
+  "13": {
+    "id": 13,
+    "myInteger": 81573,
+    "myString": "String with random number 81573"
+  },
+  "14": {
+    "id": 14,
+    "myInteger": 29297,
+    "myString": "String with random number 29297"
+  },
+  "15": {
+    "id": 15,
+    "myInteger": 84058,
+    "myString": "String with random number 84058"
+  },
+  "16": {
+    "id": 16,
+    "myInteger": 12651,
+    "myString": "String with random number 12651"
+  },
+  "17": {
+    "id": 17,
+    "myInteger": 89149,
+    "myString": "String with random number 89149"
+  },
+  "18": {
+    "id": 18,
+    "myInteger": 95380,
+    "myString": "String with random number 95380"
+  },
+  "19": {
+    "id": 19,
+    "myInteger": 24259,
+    "myString": "String with random number 24259"
+  }
+}

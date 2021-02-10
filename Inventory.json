@@ -1,0 +1,38 @@
+{
+  "123456": {
+    "id": 123456,
+    "brand": "addidas",
+    "model": "ml10",
+    "description": "good for hills"
+  },
+  "123457": {
+    "id": 123457,
+    "brand": "Nokia ",
+    "model": "m15",
+    "description": "This is first item."
+  },
+  "321654": {
+    "id": 321654,
+    "brand": "Addidas",
+    "model": "ml20",
+    "description": "This is second item"
+  },
+  "789456": {
+    "id": 789456,
+    "brand": "Puma",
+    "model": "09we",
+    "description": "This is third item."
+  },
+  "456987": {
+    "id": 456987,
+    "brand": "GoldStar",
+    "model": "klp70",
+    "description": "This is fourth item"
+  },
+  "562398": {
+    "id": 562398,
+    "brand": "Sony",
+    "model": "kl90",
+    "description": "This is fifth item"
+  }
+}

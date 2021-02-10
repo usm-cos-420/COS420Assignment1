@@ -1,0 +1,17 @@
+{
+  "1": {
+    "id": 1,
+    "myInteger": 16003,
+    "myString": "String with random number 16003"
+  },
+  "2": {
+    "id": 2,
+    "myInteger": 37023,
+    "myString": "String with random number 37023"
+  },
+  "3": {
+    "id": 3,
+    "myInteger": 87173,
+    "myString": "String with random number 87173"
+  }
+}

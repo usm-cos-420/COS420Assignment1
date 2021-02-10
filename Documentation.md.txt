@@ -1,0 +1,165 @@
+Introduction:
+This project is a simple software of a order entry system for a company that sells bicycles. In this software
+as a system user , we will have a facilities to add a customer , add/remove a inventory , add a stock for that inventory , 
+place a order for a customer , display order for a customer based on a date , display the inventory and display the customer list.
+While adding a stock for a inventory , the particular item should be present in a inventory , otherwise that item cannot be added in a stock.Similarly , if an item doesnot exist or if doesnot have
+enough quantaties in a stock then that item is not put in order.
+
+Prerequisities:
+To run this project on different IDE like eclipse or eclipse , we should first install the MAVEN.
+
+Table of Contents
+
+. Controller
+. CItemController
+. CustomerController
+. InventoryController
+. StockController
+
+. Domain
+. CustomerDao
+. InventoryDao
+. OrderPlacedDao
+. StockDao
+. Customer
+. Inventory
+. OrderPlaced
+. Stock
+
+Service:
+CustomerService
+InventorySefvice
+OrderPlacedService
+StockService
+
+View:
+CItemView
+CustomerView
+InventoryView
+StockView
+
+
+
+CItemController
+This is the main controller for contoling all the other controllers.
+
+methods : 
+provideCItemAccess()
+This method allow the user to enter the choice when the program first starts. When the user enter a choice this 
+method call executeChoice() method to execute the user input.
+
+executeChoice(int choice)
+This method execute the user input. Based on user input this method will call the different controller classes and their functions. like
+CustomerController , InventoryController and StockController.
+
+CustomerController
+This controller controls all the action perform on customers.
+
+methods:
+
+executeCustomer(int)
+This method is called from CItemController class when the user input a choice that delas with customer. This method will give system user a option 
+weather to select : add a new customer or place order for a customer.
+
+ExistingCustomer()
+This method will check if the entered id match with a existing customer or not.
+
+ExecuteOrder(Customer)
+This method will execute the customer order when the order is placed.
+
+displayOrder(int)
+This method will display the customer order.
+
+InventoryController
+This controller class controls all the action perform on Inventory
+
+methods:
+
+executeInvntory(int)
+This method is called from CItemController class when the user input a choice that deals with inventory.
+This method is basically used for adding a item in inventory , removing a item from inventory and listing a inventory.
+
+displayInventory()
+This method display the inventory.
+
+StockController
+This controller class controls all the action perform on Stock
+
+methods:
+executeStock(int)
+This method is used for adding a stock for a particular item from a inventory. If the item is not found then the stock is not added.
+
+CustomerDao
+This class helps to store all the information of customer in a jason file (permanent storage).
+
+methods:
+add(Customer)
+Add a customer to the DAO repository
+update(Customer)
+Update a customer in a DAO repository
+remove(Long)
+Remove a Customer based on a id.
+
+InventoryDao
+This class helps to store all the information of inventory in jason file.
+
+OrderPlacedDao
+This class helps to store all the information of order placed in a jason file.
+
+StockDao
+This class helps to store all the information of Stock.
+
+CustomerService
+methods:
+addACustomer(id,name,address,town ,state,zip)
+This methods add a customer with a id , name , address ,town ,state and zip
+getAll()
+Returns all the customer from a repo.
+
+InventorySefvice
+methods:
+totalItems()
+Return a toal item in a inventory
+checkId(Long)
+When the user enter a id and if id id is matched with other inventory this will check the id, it will make sure that 
+the id is unique ,if not it will increase the id number by 1.
+OrderPlacedService
+This class will help to add and list a order for a particular customer.
+StockService
+This class will help to add a stock for a particular inventory
+
+CItemView
+This is the main view for a software:
+method:
+readIntWithPrompt (String prompt)
+This method will read the user input and returns a user input to a main controller.
+CustomerView
+View for a customer.
+methods:
+enterTheId(String)
+takes the user input id and returns the id \
+enterThename(String)
+takes the name from user and returns the name
+enterTheAddress(String)
+returns a address name
+enterTheTown(String)
+returns a town name
+enterTheState(String)
+returns a state
+enterTheZipCode()
+returns a xipcode
+
+NewOrExistingCustomer(String)
+When placing order this method will provide a option to place a order for a new customer or existing customer
+ enterADate(String)
+This method will provide a option to enter a date when a user wants to display the order for a customer
+
+
+InventoryView
+This class has a methods for entering a id , brand name , model name and a description for a inventory
+StockView
+This class has a methods for entering a id , brand name , model name , and a quantity that needs to be added.
+
+
+
+

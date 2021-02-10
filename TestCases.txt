@@ -1,0 +1,389 @@
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 2
+
+
+Enter the information for new customer
+Enter the 6 digit id   
+123456
+Enter the name of customer  
+Gaurav
+Enter the Street Address  
+45 forest ave
+Enter the Town name  
+portland
+Enter the state : Example = NY  
+me
+Enter the zip code  
+04103
+one customer added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 2
+
+
+Enter the information for new customer
+Enter the 6 digit id   
+321654
+Enter the name of customer  
+Samantha Watson
+Enter the Street Address  
+86 Park Ave
+Enter the Town name  
+Portland
+Enter the state : Example = NY  
+ME
+Enter the zip code  
+04101
+one customer added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 2
+
+
+Enter the information for new customer
+Enter the 6 digit id   
+456123
+Enter the name of customer  
+Steve Harington
+Enter the Street Address  
+56 Brighton Ave
+Enter the Town name  
+Portland
+Enter the state : Example = NY  
+Me
+Enter the zip code  
+41235
+one customer added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+123456
+Enter the brand 
+Nokia 
+Enter the model 
+m15
+Enter the description 
+This is first item.
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+321654
+Enter the brand 
+Addidas
+Enter the model 
+ml20
+Enter the description 
+This is second item
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+789456
+Enter the brand 
+Puma
+Enter the model 
+09we
+Enter the description 
+This is third item.
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+456987
+Enter the brand 
+GoldStar
+Enter the model 
+klp70
+Enter the description 
+This is fourth item
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 3
+
+For adding Inventory Enter 1 ;for removing inventory enter 0 ;for listing enter 2 1
+Enter the 6 digit id  
+562398
+Enter the brand 
+Sony
+Enter the model 
+kl90
+Enter the description 
+This is fifth item
+Inventory added
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+123456
+Stocks [id=123456,Brand=addidas,Model=ml10,quantity= 99]
+Enter the number of quantity that you want to add 
+89
+Stocks [id=123456,Brand=addidas,Model=ml10,quantity= 99]
+89 Quantities of addidas : ml10 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+123457
+Stocks [id=123457,Brand=Nokia ,Model=m15,quantity= 0]
+Enter the number of quantity that you want to add 
+100
+Stocks [id=123457,Brand=Nokia ,Model=m15,quantity= 0]
+100 Quantities of Nokia  : m15 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+321654
+Stocks [id=321654,Brand=Addidas,Model=ml20,quantity= 0]
+Enter the number of quantity that you want to add 
+500
+Stocks [id=321654,Brand=Addidas,Model=ml20,quantity= 0]
+500 Quantities of Addidas : ml20 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+789456
+Stocks [id=789456,Brand=Puma,Model=09we,quantity= 0]
+Enter the number of quantity that you want to add 
+800
+Stocks [id=789456,Brand=Puma,Model=09we,quantity= 0]
+800 Quantities of Puma : 09we has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+456987
+Stocks [id=456987,Brand=GoldStar,Model=klp70,quantity= 0]
+Enter the number of quantity that you want to add 
+10000
+Stocks [id=456987,Brand=GoldStar,Model=klp70,quantity= 0]
+10000 Quantities of GoldStar : klp70 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 4
+
+Enter the id number of an Inventory 
+562398
+Stocks [id=562398,Brand=Sony,Model=kl90,quantity= 0]
+Enter the number of quantity that you want to add 
+6000
+Stocks [id=562398,Brand=Sony,Model=kl90,quantity= 0]
+6000 Quantities of Sony : kl90 has been added to stock
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 5
+
+
+Enter the 0 for a new customer or 1 for a existing customer 
+1
+Enter the id number 
+321654
+The information about the customer having 321654 is
+Customers [id=321654,Name=Samantha Watson,Street_Address=86 Park Ave,Town=Portland,State=ME,Zip_Code=4101]
+
+Place the order:
+Enter the brand Name 
+Sony
+Enter the model Name 
+kl90
+Enter the number of quantity that customer wanted:  
+20
+Order is placed
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 6
+
+Enter the customer id 
+321654
+Enter a begain date in "MM/DD/YYYY"  format01/29/2021
+Enter a end date in "MM/DD/YYYY"  format03/29/2021
+OrderPlaced [id=562398,Brand=Sony,Model=kl90,quantity= 20]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 7
+
+[Inventory [id=123456,Brand=addidas,Model=ml10,Description=good for hills], Inventory [id=123457,Brand=Nokia ,Model=m15,Description=This is first item.], Inventory [id=321654,Brand=Addidas,Model=ml20,Description=This is second item], Inventory [id=789456,Brand=Puma,Model=09we,Description=This is third item.], Inventory [id=456987,Brand=GoldStar,Model=klp70,Description=This is fourth item], Inventory [id=562398,Brand=Sony,Model=kl90,Description=This is fifth item]]
+There are total of : 6items in our inventory
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 8
+
+[Customers [id=123456,Name=Gaurav,Street_Address=45 forest ave,Town=portland,State=me,Zip_Code=4103], Customers [id=321654,Name=Samantha Watson,Street_Address=86 Park Ave,Town=Portland,State=ME,Zip_Code=4101], Customers [id=456123,Name=Steve Harington,Street_Address=56 Brighton Ave,Town=Portland,State=Me,Zip_Code=41235]]
+
+Enter the number denoting the action to perform:
+ADD CUSTOMER................2
+Add/Remove Inventory.........3
+Add stock of certain item.....4
+Place an order for a customer...5
+Display the order for customer...6
+Display the current Inventory.....7
+Display the customers list.........8
+Exit........................  9
+Enter choice: 9
+
+Goodbye.
